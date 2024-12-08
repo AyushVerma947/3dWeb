@@ -1,0 +1,11 @@
+Model Information:
+* title:	flying lizard creature
+* source:	https://sketchfab.com/3d-models/flying-lizard-creature-55c4a578515f444d9ddc6de4150a1984
+* author:	V8063882 (https://sketchfab.com/V8063882)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "flying lizard creature" (https://sketchfab.com/3d-models/flying-lizard-creature-55c4a578515f444d9ddc6de4150a1984) by V8063882 (https://sketchfab.com/V8063882) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
